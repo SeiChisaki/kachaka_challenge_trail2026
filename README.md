@@ -33,13 +33,16 @@ cd kachaka_challenge_trail2026
 ```
 
 > **注意**: `--recurse-submodules` を付けることで `ros2_ws/src/kachaka_ros2_dev_kit/` などのサブモジュールも一緒に取得されます。
-> URLはGitHub上の **Code**ボタンからコピーできます。 
+> URLはGitHub上の **Code**ボタンからコピーできます。
+>
+
 ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
 ここまで
-> やらない
-> 
+やらない
 
----
+
+
+docker appの起動
 ```
 cd /Users/seichisaki/Documents/trail/kachaka_challenge_trail2026
 ```
