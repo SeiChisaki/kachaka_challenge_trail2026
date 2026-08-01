@@ -89,6 +89,7 @@ uv sync
 
 ```bash
 # /app/ros2_ws/
+cd install
 colcon build --symlink-install
 source install/setup.bash
 ```
