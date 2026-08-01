@@ -15,7 +15,7 @@ Kachaka ロボットの Gazebo シミュレーション上でナビゲーショ�
 7. [パッケージを自作する](#7-パッケージを自作する)
 
 ---
-
+やらない
 ## 1. リポジトリのセットアップ
 
 ### 1-1. このリポジトリを Fork する
@@ -34,10 +34,15 @@ cd kachaka_challenge_trail2026
 
 > **注意**: `--recurse-submodules` を付けることで `ros2_ws/src/kachaka_ros2_dev_kit/` などのサブモジュールも一緒に取得されます。
 > URLはGitHub上の **Code**ボタンからコピーできます。 
-
+ーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーー
+ここまで
+> やらない
+> 
 
 ---
-
+```
+cd /Users/seichisaki/Documents/trail/kachaka_challenge_trail2026
+```
 ## 2. 開発環境の準備（Docker）
 
 ### 2-1. Docker イメージのビルド（初回のみ・10 分程度かかります）
