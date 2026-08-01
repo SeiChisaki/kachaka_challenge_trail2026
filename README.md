@@ -59,7 +59,7 @@ make build-app
 
 ```bash
 # [project_name] を英小文字で入力（同じPCで使うときは区別できるようにコンテナに名前をつけますが、今回は何でも）
-./run_docker_container.py <project_name>
+python3 run_docker_container.py trail
 ```
 
 `-r` オプションをつけると実機 Kachaka にも接続できます（今回はシミュレーションのみ使用）。
