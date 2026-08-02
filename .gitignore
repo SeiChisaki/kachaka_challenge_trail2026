@@ -1,0 +1,15 @@
+
+# pixi environments
+.env
+.pixi
+*.egg-info
+.venv 
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+build/
+install/ 
+log/
+judge_results/
